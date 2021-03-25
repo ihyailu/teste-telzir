@@ -1,0 +1,162 @@
+nav.navbar-cor {
+    margin: 15px 0px;
+    background: rgba(0, 0, 0, 0.0 );
+    font-weight: bolder;
+}
+
+#nav-principal a {
+    color: black;
+}
+
+
+.container {
+    font-family: 'Thasadith', sans-serif;
+
+}
+
+h1, h2, table, body, .card-title, .card-header {
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Thasadith', sans-serif;
+    margin-bottom: 50px;
+    margin-top: 15px;
+
+}
+
+
+.tabelaestilo{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 1.2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 15px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    
+}
+
+
+body {
+
+    color: white;
+    font-family: 'Thasadith', sans-serif;
+    background: linear-gradient(to right, rgba(0, 126, 174, .85), rgba(26, 193, 187, .85));
+
+}
+
+
+.textomudar {
+    background: rgba(0, 0, 0, 0.25 );
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.tabelacd {
+    background: rgba(0, 0, 0, 0 );
+    padding: -50px;
+}
+
+.card-header {
+    font-size: 22px;
+    font-weight: bolder;
+    
+}
+
+
+.card-title {
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.colunacard{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.col-sm {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tabelacd .card-body{
+    font-size: 22px;
+    padding: 0px;
+}
+
+td, th {
+    padding: 0px;
+    font-size: 16px;
+}
+
+.mudarfonte {
+    font-size: 16px;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 50px;  
+    margin-bottom: 100px;  
+    
+}
+
+.textocard {
+    color: black;
+    text-align: center;
+    
+}
+
+.calc {
+    background: rgba(0, 0, 0, 0);
+    margin-top: 150px;
+}
+
+.ar {
+    margin-top: 11px;
+    margin-bottom: 11px;
+    width: 30%;
+}
+
+.form-label {
+    font-size: 14px;
+}
+
+.mdtd {
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.textocard .card:hover{
+    background: rgba(0, 0, 0, 0.25 );
+    transition: 1.2s;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.btn1, .btn2{
+    background: rgba(89, 88, 88, 0.2);
+    color: white;
+    font-weight: bold;
+    transition: 0.7s;
+    font-size: 12px;
+}
+
+.btn1 {
+    margin-right: 10px;
+
+}
+
+.mudarcordomodalerro {
+    color: black
+}
